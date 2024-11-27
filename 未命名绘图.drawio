@@ -186,7 +186,7 @@
         <mxCell id="SWPrqackAz6YK81M5vLL-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SWPrqackAz6YK81M5vLL-187" source="SWPrqackAz6YK81M5vLL-215" target="SWPrqackAz6YK81M5vLL-216">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SWPrqackAz6YK81M5vLL-215" value="退版作業" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="SWPrqackAz6YK81M5vLL-187">
+        <mxCell id="SWPrqackAz6YK81M5vLL-215" value="退版作業" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SWPrqackAz6YK81M5vLL-187">
           <mxGeometry x="620" y="217" width="122.99999999999999" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SWPrqackAz6YK81M5vLL-216" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="SWPrqackAz6YK81M5vLL-187">
