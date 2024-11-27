@@ -32,7 +32,13 @@
           <mxGeometry width="200" height="660" as="geometry" />
         </mxCell>
         <mxCell id="SWPrqackAz6YK81M5vLL-33" value="UWA+WS Server&lt;div&gt;CWSService(2.0)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="SWPrqackAz6YK81M5vLL-34">
-          <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWPrqackAz6YK81M5vLL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SWPrqackAz6YK81M5vLL-34" source="SWPrqackAz6YK81M5vLL-38" target="SWPrqackAz6YK81M5vLL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWPrqackAz6YK81M5vLL-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="SWPrqackAz6YK81M5vLL-34">
+          <mxGeometry x="70" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SWPrqackAz6YK81M5vLL-35" value="第二階段" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" width="200" height="660" as="geometry" />
