@@ -49,7 +49,7 @@
         <mxCell id="SWPrqackAz6YK81M5vLL-189" value="換版成功" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=Verdana;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" parent="SWPrqackAz6YK81M5vLL-146" vertex="1">
           <mxGeometry x="449.4999999999999" y="120" width="122.99999999999999" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SWPrqackAz6YK81M5vLL-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;fontStyle=1" parent="SWPrqackAz6YK81M5vLL-146" target="SWPrqackAz6YK81M5vLL-148" edge="1">
+        <mxCell id="SWPrqackAz6YK81M5vLL-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="SWPrqackAz6YK81M5vLL-146" source="SWPrqackAz6YK81M5vLL-193" target="SWPrqackAz6YK81M5vLL-148" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="586.5" y="362" as="sourcePoint" />
           </mxGeometry>
@@ -81,7 +81,7 @@
         <mxCell id="aclCSw0ql2PgXOTzAVun-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;中台&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;fontStyle=1" vertex="1" parent="SWPrqackAz6YK81M5vLL-200">
           <mxGeometry x="157.9999999999999" y="144" width="122.99999999999999" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SWPrqackAz6YK81M5vLL-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontStyle=1" parent="SWPrqackAz6YK81M5vLL-146" edge="1">
+        <mxCell id="SWPrqackAz6YK81M5vLL-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="SWPrqackAz6YK81M5vLL-146" source="SWPrqackAz6YK81M5vLL-189" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="586.5" y="140" as="sourcePoint" />
             <mxPoint x="695" y="168" as="targetPoint" />
