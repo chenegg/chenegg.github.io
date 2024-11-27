@@ -78,6 +78,9 @@
         <mxCell id="aclCSw0ql2PgXOTzAVun-0" value="&lt;div style=&quot;text-align: left;&quot;&gt;Premium&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;fontStyle=1" vertex="1" parent="SWPrqackAz6YK81M5vLL-200">
           <mxGeometry x="34.999999999999886" y="144" width="122.99999999999999" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aclCSw0ql2PgXOTzAVun-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;中台&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;fontStyle=1" vertex="1" parent="SWPrqackAz6YK81M5vLL-200">
+          <mxGeometry x="157.9999999999999" y="144" width="122.99999999999999" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="SWPrqackAz6YK81M5vLL-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontStyle=1" parent="SWPrqackAz6YK81M5vLL-146" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="586.5" y="140" as="sourcePoint" />
