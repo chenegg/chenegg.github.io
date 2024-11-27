@@ -72,6 +72,9 @@
         <mxCell id="aclCSw0ql2PgXOTzAVun-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="SWPrqackAz6YK81M5vLL-198">
           <mxGeometry x="25" y="10" width="43" height="40.47" as="geometry" />
         </mxCell>
+        <mxCell id="aclCSw0ql2PgXOTzAVun-5" value="批次&lt;div&gt;stage&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SWPrqackAz6YK81M5vLL-198">
+          <mxGeometry x="24" y="61" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="SWPrqackAz6YK81M5vLL-200" value="" style="swimlane;startSize=0;dashed=1;shadow=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontFamily=Verdana;fontSize=14;fontStyle=1" parent="SWPrqackAz6YK81M5vLL-146" vertex="1">
           <mxGeometry x="260" y="250" width="520" height="190" as="geometry" />
         </mxCell>
@@ -92,9 +95,6 @@
             <mxPoint x="586.5" y="140" as="sourcePoint" />
             <mxPoint x="695" y="168" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="aclCSw0ql2PgXOTzAVun-4" value="stage" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="SWPrqackAz6YK81M5vLL-146">
-          <mxGeometry x="45" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SWPrqackAz6YK81M5vLL-187" value="第三階段" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#cce5ff;strokeColor=#36393d;swimlaneFillColor=default;fontFamily=Verdana;fontSize=14;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="5" y="772" width="795" height="388" as="geometry" />
