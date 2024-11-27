@@ -93,10 +93,18 @@
         <mxCell id="SWPrqackAz6YK81M5vLL-73" value="驗證成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SWPrqackAz6YK81M5vLL-71" target="SWPrqackAz6YK81M5vLL-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SWPrqackAz6YK81M5vLL-65" value="驗證失敗" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SWPrqackAz6YK81M5vLL-43" target="SWPrqackAz6YK81M5vLL-59">
+        <mxCell id="SWPrqackAz6YK81M5vLL-65" value="驗證失敗" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SWPrqackAz6YK81M5vLL-43" target="SWPrqackAz6YK81M5vLL-59">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="108" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWPrqackAz6YK81M5vLL-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SWPrqackAz6YK81M5vLL-71" target="SWPrqackAz6YK81M5vLL-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="311" y="830" />
+              <mxPoint x="732" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
