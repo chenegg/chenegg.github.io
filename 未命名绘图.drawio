@@ -167,8 +167,8 @@
         <mxCell id="SWPrqackAz6YK81M5vLL-239" value="04" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontFamily=Verdana;fontSize=14;fontStyle=1" parent="SWPrqackAz6YK81M5vLL-218" vertex="1">
           <mxGeometry x="-6" y="-10" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c27peqgYFpaJcafau-Z4-0" value="&lt;span style=&quot;text-align: left; font-size: 14px;&quot;&gt;Customer Portal&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;fontStyle=1" vertex="1" parent="SWPrqackAz6YK81M5vLL-218">
-          <mxGeometry x="34.999999999999886" y="68" width="122.99999999999999" height="40" as="geometry" />
+        <mxCell id="c27peqgYFpaJcafau-Z4-0" value="&lt;span style=&quot;text-align: left; font-size: 14px;&quot;&gt;IGM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;fontStyle=1" vertex="1" parent="SWPrqackAz6YK81M5vLL-218">
+          <mxGeometry x="34.999999999999886" y="66" width="122.99999999999999" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SWPrqackAz6YK81M5vLL-223" value="" style="swimlane;startSize=0;dashed=1;shadow=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontFamily=Verdana;fontSize=14;fontStyle=1" parent="SWPrqackAz6YK81M5vLL-187" vertex="1">
           <mxGeometry x="260" y="198" width="517" height="182" as="geometry" />
