@@ -9,89 +9,80 @@
             <mxGeometry x="750" y="50" width="291" height="999" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-6" value="總指揮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="343" y="80" width="108" height="49" as="geometry" />
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-6" value="總指揮" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="40" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-7" value="調度人員" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="327" y="202" width="124" height="49" as="geometry" />
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-7" value="調度人員&#xa;(記錄問題與回報)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="192" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-8" value="上版人員" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="162" y="324" width="124" height="49" as="geometry" />
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-8" value="上版人員" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;glass=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-9" value="IT負責人" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="301" y="446" width="122" height="49" as="geometry" />
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-9" value="IT負責人" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="370" width="122" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-10" value="驗證人員" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="568" width="124" height="49" as="geometry" />
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-10" value="驗證人員" style="whiteSpace=wrap;strokeWidth=2;fillColor=#008a00;strokeColor=#005700;rounded=1;glass=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="412" y="530" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-11" value="下達上線指令" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.04;entryY=0;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-6" target="1P9cVo6aBzfZuQ1xgT3G-7">
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-11" value="1.下達上線指令" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.04;entryY=0;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-6" target="1P9cVo6aBzfZuQ1xgT3G-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="247" y="166" />
+              <mxPoint x="174" y="156" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-12" value="分配任務" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-7" target="1P9cVo6aBzfZuQ1xgT3G-8">
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-12" value="2.分配任務" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-7" target="1P9cVo6aBzfZuQ1xgT3G-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="224" y="288" />
+              <mxPoint x="200" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-13" value="回報部署結果" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-8" target="1P9cVo6aBzfZuQ1xgT3G-9">
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-14" value="5.通知驗證" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-9" target="1P9cVo6aBzfZuQ1xgT3G-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="410" />
+              <mxPoint x="400" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-14" value="通知驗證" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-9" target="1P9cVo6aBzfZuQ1xgT3G-10">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-15" value="6.回覆驗證結果" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=0.69;entryY=1;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-10" target="1P9cVo6aBzfZuQ1xgT3G-9">
+          <mxGeometry x="0.1947" y="-14" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="302" y="532" />
+              <mxPoint x="492" y="546" />
+              <mxPoint x="550" y="470" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-15" value="登入系統驗證功能" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=0.69;entryY=1;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-10" target="1P9cVo6aBzfZuQ1xgT3G-9">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-16" value="4.通知驗證結果" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-7" target="1P9cVo6aBzfZuQ1xgT3G-9">
+          <mxGeometry x="-0.0042" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="422" y="532" />
+              <mxPoint x="360" y="320" />
             </Array>
+            <mxPoint x="330" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-16" value="回報驗證結果" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0;entryX=0.5;entryY=1;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-9" target="1P9cVo6aBzfZuQ1xgT3G-7">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-18" value="3.回報部署結果" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.137;entryY=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-8" target="1P9cVo6aBzfZuQ1xgT3G-7">
+          <mxGeometry x="-0.2926" y="33" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="389" y="410" />
+              <mxPoint x="250" y="350" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-17" value="記錄問題與回報" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=0;entryX=0.42;entryY=1;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-7" target="1P9cVo6aBzfZuQ1xgT3G-6">
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-19" value="7.回報驗證結果" style="curved=1;startArrow=none;endArrow=block;exitX=0.557;exitY=0.041;entryX=0.88;entryY=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-9" target="1P9cVo6aBzfZuQ1xgT3G-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="375" y="166" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-18" value="部署失敗回報" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-8" target="1P9cVo6aBzfZuQ1xgT3G-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-19" value="技術問題處理" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=0;entryX=0.88;entryY=1;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-9" target="1P9cVo6aBzfZuQ1xgT3G-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="509" y="410" />
-              <mxPoint x="509" y="288" />
+              <mxPoint x="510" y="330" />
+              <mxPoint x="440" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1P9cVo6aBzfZuQ1xgT3G-20" value="問題回報" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0;entryX=0.83;entryY=1;rounded=0;" edge="1" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-7" target="1P9cVo6aBzfZuQ1xgT3G-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="487" y="166" />
+              <mxPoint x="414" y="156" />
             </Array>
           </mxGeometry>
         </mxCell>
