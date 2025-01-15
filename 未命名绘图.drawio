@@ -58,7 +58,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-18" value="3.回報部署結果" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.137;entryY=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-8" target="1P9cVo6aBzfZuQ1xgT3G-7" edge="1">
+        <mxCell id="1P9cVo6aBzfZuQ1xgT3G-18" value="3.回報部署結果" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.137;entryY=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" parent="1" source="1P9cVo6aBzfZuQ1xgT3G-8" target="1P9cVo6aBzfZuQ1xgT3G-7" edge="1">
           <mxGeometry x="-0.2926" y="33" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="350" />
@@ -105,9 +105,6 @@
         </mxCell>
         <mxCell id="xWWlOde3axq_9Du7qHrp-13" value="Eric" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="xWWlOde3axq_9Du7qHrp-9">
           <mxGeometry x="145" y="141" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xWWlOde3axq_9Du7qHrp-11" value="&lt;div&gt;&lt;span&gt;&lt;u&gt;範例腳本&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;u&gt;2.分配任務&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;調度人員：UWA請協助上版&lt;div&gt;DC人員：&lt;span style=&quot;background-color: initial;&quot;&gt;針對留言，回覆收到&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;u&gt;3.回報部署結果&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;DC人員：UWA已上版完成，請驗證&lt;/div&gt;&lt;div&gt;調度人員：針對留言，回覆收到&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;&lt;u&gt;4.通知驗證結果&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;調度人員：UWA已上版完成，請Edward驗證，並於驗證完成後在通知&lt;span style=&quot;font-family: 新細明體, serif; background-color: initial;&quot;&gt;「&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;驗證人員XXX&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 新細明體, serif;&quot;&gt;」進行驗證&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IT負責人：針對留言，回覆收到&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5~6：請IT負責人及驗證人員以Teams私下聯絡確認(不要在群組回覆)，若有任問題，可另組Teams臨時小組並加入部門主管及總指揮一同確認&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7.回報驗證結果&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;IT負責人：UWA已驗證成功/UWA驗證失敗請退版&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=Courier New;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="10" y="620" width="790" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
